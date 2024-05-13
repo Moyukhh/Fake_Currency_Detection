@@ -24,7 +24,7 @@ Instructions for Usage:
 3. Run the Flask application using the provided command (python app.py).
 4. Access the application through a web browser and follow the instructions for uploading currency note images.
 5. Receive feedback on the authenticity of the uploaded currency notes.
-6. 
+
 Acknowledgments: Special thanks to the contributors and researchers whose work has paved the way for advancements in image processing and counterfeit detection techniques.
 
 Disclaimer:
