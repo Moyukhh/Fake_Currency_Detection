@@ -25,7 +25,5 @@ Instructions for Usage:
 4. Access the application through a web browser and follow the instructions for uploading currency note images.
 5. Receive feedback on the authenticity of the uploaded currency notes.
 
-Acknowledgments: Special thanks to the contributors and researchers whose work has paved the way for advancements in image processing and counterfeit detection techniques.
-
 Disclaimer:
 While the system aims to provide accurate results, it may not guarantee 100% accuracy in detecting counterfeit currency notes. Users should exercise caution and verify the authenticity of currency notes through official channels when in doubt.
